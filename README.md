@@ -1,2 +1,2 @@
 # hello-word
-learn git
+learn git for ldg
